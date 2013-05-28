@@ -26,7 +26,7 @@ function createApp(name, destination) {
                 if (err) {
                     throw err;
                 }
-                console.log('run:');
+                console.log('Done. Now run:');
                 console.log('$ cd', name, '&& npm install');   
             }
         );
