@@ -24,8 +24,7 @@ exports.getConfig = function() {
             __dirname + '/node_modules/bem-bl/blocks-common',
             __dirname + '/node_modules/bem-bl/blocks-desktop',
             __dirname + '/node_modules/bem-json',
-            __dirname + '/blocks',
-            cwd + '/blocks'
+            __dirname + '/blocks'
         ]
 
     };
